@@ -8,7 +8,7 @@ const baseStyles = {
   padding: '10px 20px',
 }
 
-export default class ButtonColorful extends Component {
+export class ButtonColorful extends Component {
 
   handleClick = this.props.onClick()
 
