@@ -60,7 +60,7 @@ export default class App extends Component {
       <div className="App" style={calculatedStyles}>
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Aetion Front-End Homework Exercise</h1>
+          <h1 className="App-title">XXXXX Front-End Homework Exercise</h1>
           <h3>Submitted text input data: <code>{this.state.submittedText}</code></h3>
         </header>
         <p className="App-intro">

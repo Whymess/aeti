@@ -1,6 +1,6 @@
-# Aetion Front-End Homework Problem README:
+# XXXXX Front-End Homework Problem README:
 
-Welcome to the Aetion interview process!
+Welcome to the XXXXX interview process!
 
 This is a very basic React demo app, designed to get an idea of your approach to frontend problem-solving, as well as your understanding of data flow and event systems in rich JavaScript frameworks/libraries (we are using React for this test, but similar principles apply in Angular, Vue, or other frameworks).
 
